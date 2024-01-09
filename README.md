@@ -2,7 +2,10 @@
 ## A Fun Project to Impress Your Crush 😎
 ### Express Your Feelings with Style 💕😁
 
-Inspired by [developerrahulofficial's web app "More than a Carousel."](#)
+Inspired by [developerrahulofficial's web app "More than a Carousel."](#https://codepen.io/rahul-sahni/pen/ExMPJZJ)
+
+## Screenshot
+<img src="Crush.png" alt="Crush App Screenshot" width="400" height="800">
 
 **More Features:**
 - Swipe through a curated collection of images, each with a heartfelt message to convey your feelings.
